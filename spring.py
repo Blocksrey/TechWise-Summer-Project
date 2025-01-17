@@ -1,4 +1,4 @@
-#blocksrey
+#jskinnerd
 from math import cos,sin,exp,sqrt
 
 def spring(p,v,b,k,d,t):#position,velocity,target,constant,dampness,time
